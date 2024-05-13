@@ -1,5 +1,5 @@
 # Insect-Geotaxis
-The repository contains Matlab functions for (1) controlling instruments during geotaxis experiment, (2) tracking flies in the acquired videos, and (3) analyzing their movements. 
+The repository contains Matlab functions for (1) controlling instruments during geotaxis experiment, (2) tracking flies in the acquired videos, and (3) analyzing their movements. Required for full functionality: [a] MATLAB toolboxes: Computer Vision, Image Acquisition, Image Processing, Instrument Control and Statistics and Machine Learning Toolboxes [b] third-party Instrument Control Toolbox Support Package for Keysight IO Libraries and VISA Interface (https://www.keysight.com/us/en/lib/software-detail/computer-software/keysight-instrument-control-bundle-download-1184883.html) and any camera-specific driver (for instance for ImagingSource cameras go to https://www.theimagingsource.com/en-us/support/download/icmatlabr2013b-3.4.0.58/).
 
 
 1: RecordVideos(numVideos,userFrameRate,duration,waitTime,filename)
