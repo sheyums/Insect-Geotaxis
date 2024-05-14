@@ -29,7 +29,7 @@ The functions were used in "High-resolution, high-throughput analysis of Drosoph
 	
 -Notes:
 ***The function can overwrite videos with the same name but will check with the user prior to execution. 
-***This code works with XXXXXX camera specified in line 25. User should change this if using a different type of camera. 
+***This code works with XXXXXX camera specified in line 29. User should change this if using a different type of camera. 
 ***This code connects directly to the motor for the fly slamming mechanism. If the user is not connecting to the same motor (or to any motor) comment out lines 34-36, 60-62, 87. 
 
 +++++++++++++++++++++++++++++++++++++
